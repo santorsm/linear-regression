@@ -1,5 +1,7 @@
 # Lab: 13 - Linear Regressions
 
+[PR](https://github.com/santorsm/linear-regression/pull/1)
+
 ## Feature Tasks and Requirements
 
 [X] Show the first five rows of the data set
